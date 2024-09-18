@@ -1,0 +1,50 @@
+Prototipo Mit Maratona Empreendedora: AI Marketplace
+Link: https://mit-maratonaempreendedora.bubbleapps.io/version-test/ai_marketplace_1?debug_mode=true
+Objetivo: O protótipo tem como objetivo apresentar um marketplace para a maratona de empreendedorismo da MIT, com foco em promover a utilização da inteligência artificial (IA).
+Funcionalidades:
+Página Inicial do Marketplace:
+Banner com título chamativo e frase de impacto.
+Seção com filtros para categorizar os projetos (ex: setor, tecnologia, estágio de desenvolvimento).
+Seção com destaque para os projetos mais populares.
+Seção com chamada para ação para criar um novo projeto.
+Página de Detalhe do Projeto:
+Título do projeto.
+Descrição detalhada do projeto.
+Informações sobre a equipe do projeto.
+Seção de comentários e interação com outros usuários.
+Botão de "Inscrever-se" para participar do projeto.
+
+Página de Criação de Projeto:
+Formulário para inserir informações sobre o projeto (nome, descrição, área de atuação, tecnologias utilizadas, equipe, etc.).
+Opção de upload de imagens e vídeos para o projeto.
+Botão de "Criar Projeto" para publicar o projeto no marketplace.
+
+Página de Perfil do Usuário:
+Visualização dos projetos criados pelo usuário.
+Lista de projetos nos quais o usuário está inscrito.
+Opção de editar o perfil do usuário.
+
+Observações:
+O protótipo foi desenvolvido em Bubble.io, uma plataforma de desenvolvimento de aplicações web.
+O protótipo está em fase de teste e desenvolvimento, e ainda pode conter erros ou funcionalidades incompletas.
+O design do protótipo é básico e tem como objetivo apresentar a estrutura e funcionalidades do marketplace.
+O protótipo não possui integração com sistemas de back-end ou bancos de dados.
+
+O protótipo está disponível para visualização e teste, mas não possui funcionalidades de criação ou inscrição em projetos reais.
+Próximos Passos:
+Implementar funcionalidades de criação e inscrição em projetos reais.
+Integrar com sistemas de back-end e bancos de dados.
+Implementar sistema de ranking e avaliação de projetos.
+Refinar o design do marketplace.
+Testar a usabilidade do marketplace.
+
+Contribuições:
+O protótipo foi desenvolvido com o objetivo de apresentar uma visão inicial do marketplace da Maratona Empreendedora da MIT.
+A equipe responsável pelo protótipo agradece por quaisquer sugestões e feedback.
+Contato:
+Para entrar em contato com a equipe responsável pelo protótipo, envie um email para: [email protected]
+
+Data:
+18/09/2024
+Versão:
+Alpha-Restrito para algumas pessoas 
