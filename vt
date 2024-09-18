@@ -1,0 +1,62 @@
+Prototipo Mit Maratona Empreendedora: AI Product Listing 1
+Link: https://mit-maratonaempreendedora.bubbleapps.io/version-test/ai_product_listing_1?debug_mode=true
+Objetivo: O protótipo tem como objetivo apresentar uma lista de produtos que utilizam inteligência artificial (IA) como parte da Maratona Empreendedora da MIT.
+Funcionalidades:
+Página de Listagem de Produtos:
+Lista de produtos com informações básicas:
+Nome do produto
+Breve descrição
+Imagem do produto
+Botão para visualizar detalhes do produto
+Filtros para categorizar os produtos (ex: setor, tecnologia, estágio de desenvolvimento).
+Botão para ordenar os produtos por diferentes critérios (ex: data, popularidade, nome).
+Página de Detalhe do Produto:
+Informações detalhadas sobre o produto:
+Nome do produto
+Descrição completa
+Imagem do produto
+Vídeos do produto (opcional)
+Informações sobre a equipe que desenvolveu o produto
+Seção de comentários e interação com outros usuários
+Botão para "Inscrever-se" para participar do desenvolvimento do produto
+Link para o site do produto (opcional)
+Opção de compartilhar o produto nas redes sociais
+Observações:
+O protótipo foi desenvolvido em Bubble.io, uma plataforma de desenvolvimento de aplicações web.
+O protótipo está em fase de teste e desenvolvimento, e ainda pode conter erros ou funcionalidades incompletas.
+O design do protótipo é básico e tem como objetivo apresentar a estrutura e funcionalidades da lista de produtos.
+O protótipo não possui integração com sistemas de back-end ou bancos de dados.
+O protótipo está disponível para visualização e teste, mas não possui funcionalidades de inscrição ou interação com produtos reais.
+Próximos Passos:
+Implementar funcionalidades de inscrição em projetos reais.
+Integrar com sistemas de back-end e bancos de dados para gerenciar informações sobre produtos e usuários.
+Implementar sistema de ranking e avaliação de produtos.
+Refinar o design da lista de produtos e da página de detalhes.
+Testar a usabilidade da lista de produtos.
+Contribuições:
+O protótipo foi desenvolvido com o objetivo de apresentar uma visão inicial da lista de produtos da Maratona Empreendedora da MIT.
+A equipe responsável pelo protótipo agradece por quaisquer sugestões e feedback.
+
+Contato:
+Para entrar em contato com a equipe responsável pelo protótipo, envie um email para: [email protected]
+Licença:
+Este protótipo é licenciado sob a licença MIT.
+Agradecimento:
+Agradecemos à MIT pela oportunidade de desenvolver este protótipo.
+Data:18/09/2024
+[Data da última atualização do protótipo]
+Versão:
+Alpha - Restrita para algumas pessoas 
+
+Pontos a serem melhorados:
+A lista de produtos poderia ser mais completa com a inclusão de informações adicionais, como o preço e a disponibilidade do produto.
+A página de detalhes do produto poderia ser mais interativa com a inclusão de um chat para comunicação entre usuários e desenvolvedores do produto.
+O sistema de filtragem e ordenação dos produtos poderia ser aprimorado com a inclusão de mais opções e critérios.
+
+Sugestões de Melhoria:
+Incluir um sistema de busca avançada para facilitar a localização de produtos específicos.
+Criar um sistema de recomendação de produtos baseado nos interesses do usuário.
+Implementar um sistema de avaliações e comentários para os produtos.
+
+Considerações Finais:
+O protótipo da lista de produtos da Maratona Empreendedora da MIT é um bom ponto de partida para o desenvolvimento de uma plataforma online completa e eficaz. Com algumas melhorias e ajustes, a lista de produtos pode ser um importante canal de divulgação de soluções inovadoras em IA e conectar desenvolvedores com potenciais usuários.
