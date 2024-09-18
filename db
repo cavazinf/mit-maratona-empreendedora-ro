@@ -1,0 +1,62 @@
+Prototipo Mit Maratona Empreendedora: AI Dashboard 1
+Link: https://bubble.io/page?id=mit-maratonaempreendedora&tab=tabs-1&name=ai_dashboard_1&type=page
+Objetivo: O protótipo tem como objetivo apresentar um dashboard para a maratona de empreendedorismo da MIT, com foco em fornecer informações relevantes sobre o evento, participantes, projetos e atividades.
+Funcionalidades:
+Visão Geral:
+Informações resumidas sobre o evento:
+Número total de participantes
+Número total de projetos
+Número total de atividades
+Data e hora do evento
+Gráfico de barras com o número de participantes por categoria (ex: estudantes, profissionais, startups).
+Mapa com a localização do evento.
+Participantes:
+Lista de participantes com informações básicas (nome, foto, área de interesse).
+Filtros para categorizar os participantes (ex: por categoria, por área de interesse, por equipe).
+Opção de visualizar o perfil detalhado de cada participante.
+Projetos:
+Lista de projetos com informações básicas (nome, descrição, tecnologia, equipe).
+Filtros para categorizar os projetos (ex: por setor, por tecnologia, por estágio de desenvolvimento).
+Opção de visualizar os detalhes de cada projeto.
+Atividades:
+Lista de atividades do evento (palestras, workshops, mentorias, etc.).
+Filtros para categorizar as atividades (ex: por data, por categoria, por palestrante).
+Opção de visualizar os detalhes de cada atividade.
+Configurações:
+Opção de editar as informações do evento.
+Opção de adicionar ou remover participantes.
+Opção de adicionar ou remover projetos.
+Opção de adicionar ou remover atividades.
+Observações:
+O protótipo foi desenvolvido em Bubble.io, uma plataforma de desenvolvimento de aplicações web.
+O protótipo está em fase de teste e desenvolvimento, e ainda pode conter erros ou funcionalidades incompletas.
+O design do protótipo é básico e tem como objetivo apresentar a estrutura e funcionalidades do dashboard.
+O protótipo não possui integração com sistemas de back-end ou bancos de dados.
+O protótipo está disponível para visualização e teste, mas não possui funcionalidades de edição de informações ou gerenciamento do evento.
+Próximos Passos:
+Implementar funcionalidades de edição de informações e gerenciamento do evento.
+Integrar com sistemas de back-end e bancos de dados para gerenciar informações sobre participantes, projetos, atividades, etc.
+Refinar o design do dashboard.
+Implementar recursos de análise de dados e relatórios.
+Testar a usabilidade do dashboard.
+Contribuições:
+O protótipo foi desenvolvido com o objetivo de apresentar uma visão inicial do dashboard da Maratona Empreendedora da MIT.
+A equipe responsável pelo protótipo agradece por quaisquer sugestões e feedback.
+Contato:
+Para entrar em contato com a equipe responsável pelo protótipo, envie um email para: [email protected]
+
+Data:
+18/09/2024
+Versão:
+[Versão do protótipo]
+Alpha - Restrito para algumas pessoas
+
+O dashboard poderia ser mais interativo com a inclusão de gráficos e tabelas mais detalhadas.
+O sistema de filtros para categorizar os participantes, projetos e atividades poderia ser mais completo.
+O sistema de pesquisa de informações poderia ser mais eficiente com a inclusão de recursos de pesquisa avançada.
+Sugestões de Melhoria:
+Incluir recursos de análise de dados para identificar tendências e padrões.
+Criar dashboards específicos para diferentes grupos de usuários (ex: participantes, organizadores, patrocinadores).
+Implementar um sistema de notificações para avisar os usuários sobre novas informações e atualizações.
+Considerações Finais:
+O protótipo do dashboard da Maratona Empreendedora da MIT é um bom ponto de partida para o desenvolvimento de uma plataforma online completa e eficaz para gerenciar o evento. Com algumas melhorias e ajustes, o dashboard pode ser uma ferramenta importante para organizar, monitorar e analisar as informações do evento e fornecer uma experiência mais completa para os participantes.
