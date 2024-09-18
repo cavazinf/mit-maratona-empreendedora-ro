@@ -1,0 +1,61 @@
+Prototipo Mit Maratona Empreendedora: AI Social Feed 1
+Link: https://mit-maratonaempreendedora.bubbleapps.io/version-test/ai_social_feed_1?debug_mode=true
+Objetivo: O protótipo tem como objetivo apresentar um feed social para a maratona de empreendedorismo da MIT, com foco em promover a comunicação e colaboração entre participantes e a utilização da inteligência artificial (IA).
+Funcionalidades:
+Página do Feed Social:
+Feed com posts de diferentes usuários:
+Texto
+Fotos
+Vídeos
+Links
+Opção de curtir, comentar e compartilhar posts.
+Filtros para categorizar os posts (ex: por hashtag, por usuário, por categoria).
+
+Opção de criar um novo post.
+Página de Perfil do Usuário:
+Informações sobre o usuário (nome, foto, biografia).
+Lista de posts do usuário.
+Lista de usuários seguidos pelo usuário.
+Opção de seguir ou deixar de seguir outros usuários.
+Opção de Criar um Novo Post:
+Campo de texto para inserir o conteúdo do post.
+Opção de adicionar fotos e vídeos.
+Opção de adicionar hashtags.
+Botão de "Publicar" para publicar o post.
+
+Observações:
+O protótipo foi desenvolvido em Bubble.io, uma plataforma de desenvolvimento de aplicações web.
+O protótipo está em fase de teste e desenvolvimento, e ainda pode conter erros ou funcionalidades incompletas.
+O design do protótipo é básico e tem como objetivo apresentar a estrutura e funcionalidades do feed social.
+O protótipo não possui integração com sistemas de back-end ou bancos de dados.
+O protótipo está disponível para visualização e teste, mas não possui funcionalidades de criação de posts ou interação com outros usuários.
+
+Próximos Passos:
+Implementar funcionalidades de criação de posts e interação com outros usuários.
+Integrar com sistemas de back-end e bancos de dados para gerenciar informações sobre usuários e posts.
+Implementar sistema de notificações para avisar os usuários sobre novas interações.
+Refinar o design do feed social.
+Testar a usabilidade do feed social.
+
+Contribuições:
+O protótipo foi desenvolvido com o objetivo de apresentar uma visão inicial do feed social da Maratona Empreendedora da MIT.
+A equipe responsável pelo protótipo agradece por quaisquer sugestões e feedback.
+Contato:
+Para entrar em contato com a equipe responsável pelo protótipo, envie um email para: [email protected]
+
+Data:
+18/09/2024
+Versão:
+Alpha - Restrito para algumas pessoas
+Pontos a serem melhorados:
+O feed social poderia ser mais interativo com a inclusão de opções de reação aos posts (ex: emojis, gifs).
+O sistema de filtros para categorizar os posts poderia ser mais completo com a inclusão de mais categorias.
+A página de perfil do usuário poderia ser mais completa com a inclusão de informações adicionais (ex: projetos em que o usuário participa, habilidades).
+
+Sugestões de Melhoria:
+Incluir um sistema de mensagens privadas entre usuários.
+Criar grupos de discussão para facilitar a comunicação entre usuários com interesses em comum.
+Implementar um sistema de pesquisa de posts e usuários.
+
+Considerações Finais:
+O protótipo do feed social da Maratona Empreendedora da MIT é um bom ponto de partida para o desenvolvimento de uma plataforma online completa e eficaz para promover a comunicação e colaboração entre participantes. Com algumas melhorias e ajustes, o feed social pode ser uma ferramenta importante para fortalecer a comunidade da maratona e aumentar a interação entre os participantes.
